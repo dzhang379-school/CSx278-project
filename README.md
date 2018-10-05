@@ -23,9 +23,9 @@ The app I envision would keep a database of open opportunities on campus organiz
 
 ## Question 1:
 
- Person A: Primarily word of mouth for things on campus. Websites like Google/Glassdoor for jobs, etc.
- Person B: I mostly joined the clubs I'm in after hearing about them in class or from friends.
- Person C: AnchorLink, Doreways, Glassdoor, LinkedIn.
+Person A: Primarily word of mouth for things on campus. Websites like Google/Glassdoor for jobs, etc.
+Person B: I mostly joined the clubs I'm in after hearing about them in class or from friends.
+Person C: AnchorLink, Doreways, Glassdoor, LinkedIn.
 
 ## Question 2:
 
