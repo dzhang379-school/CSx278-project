@@ -103,6 +103,7 @@ Person C: I dunno, this would be hard to do, but maybe you could integrate with 
     - Users should be able to update their postings if an opportunity has been filled
 4. The application should be accessible to all types of users, including professors, employers, and students
 		
+
 # Development Approach
 
 ## 1a. Implementation of the Database
